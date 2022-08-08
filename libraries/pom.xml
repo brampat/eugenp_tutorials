@@ -757,7 +757,7 @@
         <commons-codec-version>1.10.L001</commons-codec-version>
         <jets3t-version>0.9.4.0006L</jets3t-version>
         <jctools.version>2.1.2</jctools.version>
-        <typesafe-akka.version>2.5.11</typesafe-akka.version>
+        <typesafe-akka.version>2.5.16</typesafe-akka.version>
         <resilience4j.version>0.12.1</resilience4j.version>
         <javapoet.version>1.10.0</javapoet.version>
         <hamcrest-all.version>1.3</hamcrest-all.version>
