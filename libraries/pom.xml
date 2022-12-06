@@ -787,7 +787,7 @@
         <maven-bundle-plugin.version>3.3.0</maven-bundle-plugin.version>
         <maven-jar-plugin.version>3.0.2</maven-jar-plugin.version>
         <mockftpserver.version>2.7.1</mockftpserver.version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
         <reflections.version>0.9.11</reflections.version>
 
     </properties>
